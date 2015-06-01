@@ -1,0 +1,2 @@
+# snigrepository
+my new repository
