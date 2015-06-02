@@ -1,2 +1,2 @@
 Mozilla firefox
-	firebug
+	firebug gtrde

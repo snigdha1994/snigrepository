@@ -1,2 +1,1 @@
-# snigrepository
-my new repository
+this is snigs new repo
